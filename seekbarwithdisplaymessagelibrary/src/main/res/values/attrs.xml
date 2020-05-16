@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="seek_bar_with_display_message">
+        <attr name="quantity" format="string" />
+        <attr name="greenMessage" format="string" />
+        <attr name="yellowMessage" format="string" />
+        <attr name="redMessage" format="string" />
+    </declare-styleable>
+</resources>
